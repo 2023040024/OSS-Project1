@@ -2,8 +2,8 @@
 
 int main(){
 
-    printf("Hello, World!");
+    printf("first OSS Code\n");
 
     return 0;
-    
+
 }
